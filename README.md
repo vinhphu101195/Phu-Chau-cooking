@@ -1,6 +1,6 @@
 # Phu Chau Recipe
 
-## react-redux
+## react redux
 
 ## you can search the recipe of meal, and how to cook it.
 
