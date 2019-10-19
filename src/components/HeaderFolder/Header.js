@@ -6,7 +6,7 @@ class Header extends Component {
   render() {
     return (
       <header className="header">
-        <img src="img/logo.png" alt="Logo" className="header__logo" />
+        <img src="img/favicon.png" alt="Logo" className="header__logo" />
         <Search onChange={this.props.onChange} />
         <Likes
           likeList={this.props.likeList}
